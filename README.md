@@ -1,6 +1,7 @@
 # Dina-Twitter (twitter)
 
 Twitter Clone created with Quasar Framework, VueJS & Firebase. Users can add new tweets, delete old tweets, and like tweets.
+Based on: https://youtu.be/la-0ulfn0_M
 
 ## Install the dependencies
 ```bash
