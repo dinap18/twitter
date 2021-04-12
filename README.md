@@ -1,6 +1,6 @@
 # Dina-Twitter (twitter)
 
-A Cross-Platrom Twitter Clone created with Quasar Framework, VueJS & Firebase. Users can add new tweets, delete old tweets, and like tweets.
+Twitter Clone created with Quasar Framework, VueJS & Firebase. Users can add new tweets, delete old tweets, and like tweets.
 
 ## Install the dependencies
 ```bash
